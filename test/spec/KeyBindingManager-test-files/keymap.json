@@ -4,6 +4,6 @@
         "ctrl-2": "file.openFolder",
         "Alt-Ctrl-Backspace": "view.toggleSidebar",
         "ctrl-l": "navigate.gotoDefinition",
-        "Alt-Ctrl-L": null
+        "Alt-Ctrl-L": "lkcampbell.loremIpsum",
     } 
 }
